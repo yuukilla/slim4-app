@@ -75,7 +75,7 @@ $settings['twig'] = [
     'loader_path'   => __DIR__ . '/../public',
     'loader_name'   => 'public',
     'debug'         => true,
-    'cache_enabled' => false,
+    'cache_enabled' => true,
     'cache_path'    => __DIR__ . '/../tmp/twig-cache'
 ];
 $settings['assets'] = [

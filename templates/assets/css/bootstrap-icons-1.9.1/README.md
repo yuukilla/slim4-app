@@ -1,1 +1,0 @@
-ignored all .svg files

@@ -20,10 +20,10 @@ final class HomeAction
     {
         return $this->twig->render(
             $response, 
-            'home.twig',
+            'landing.twig',
             array(
                 'title' => 'Slim4 App',
-                'data' => "Hello, world!"
+                'data' => ["Hello,", "!"]
             )
         );
     }
