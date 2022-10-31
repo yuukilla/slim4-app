@@ -8,7 +8,7 @@ cache.properties
 .vscode
 .phpunit.result.cache
 package-lock.json
-!.github/
+.github
 .github/*
 # keys
 *.pem
