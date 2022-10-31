@@ -41,6 +41,8 @@ docs/*
 tmp/*
 !tmp/.htaccess
 
+templates/assets/css/bootstrap-icons-1.9.1/*.svg
+
 !tmp/translations/
 tmp/translations/*
 !tmp/translations/empty

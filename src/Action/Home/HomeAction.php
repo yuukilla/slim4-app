@@ -22,6 +22,7 @@ final class HomeAction
             $response, 
             'home.twig',
             array(
+                'title' => 'Slim4 App',
                 'data' => "Hello, world!"
             )
         );
